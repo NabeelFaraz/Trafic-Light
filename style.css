@@ -1,0 +1,60 @@
+/* h4{
+    color: rgb(13, 11, 15);
+}
+
+body {
+background-color: rgb(74, 16, 77);
+} 
+#box{
+    background-color: rgb(17, 184, 184) ;
+}
+div{
+    display: block;
+    text-align: center;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    border: 10px;
+    border-style:groove;
+    border-radius: 20px;
+}
+/* h1{
+    text-align: center;
+    background-color: brown;
+
+}
+p{
+    text-transform: capitalize;
+} */
+ /* #one {
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+
+    
+ } */ 
+  div{
+    background-color: black;
+    padding: 35px 35px 35px 30px;
+    margin-right: 1110px;
+  }
+  #one{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    border:10px ;
+  }
+   #two{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    
+  }
+   #three{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+    
+  }
